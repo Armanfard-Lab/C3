@@ -1,0 +1,28 @@
+# general
+seed: 42
+workers: 8
+dataset_dir: "./datasets"
+
+# train options
+dataset_size: 60000
+class_num: 10
+batch_size: 128
+test_batch_size: 500
+image_size: 224
+start_epoch: 0
+max_epochs: 20
+dataset: "CIFAR-10" 
+
+
+# model options
+resnet: "ResNet34" # ResNet18 / ResNet34 / ResNet50
+feature_dim: 128
+model_path: "save/CIFAR-10"
+reload: False
+
+# loss options
+learning_rate: 0.00001
+weight_decay: 0.
+zeta: 0.6
+
+
