@@ -3,6 +3,10 @@ PyTorch implementation of the paper "C3: Cross-instance guided Contrastive Clust
 
 <center><img src="https://github.com/Armanfard-Lab/C3/blob/main/Figs/C3.jpg" alt="Overview" width="800" align="center"></center>
 
+## Implementation
+
+Please first downlaod the **`CIFAR_10_initial.zip`** from [this link](https://drive.google.com/file/d/1deqzG-eUztltgdQ0H2Y29N83_i9Tr_uN/view?usp=sharing) and put it in the same folder as **`main.py`** and then run the code.
+
 ## Citation
 
 You can find the preprint of our paper on [arXiv](https://arxiv.org/abs/2211.07136).
