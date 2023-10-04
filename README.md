@@ -17,8 +17,8 @@ Please cite our paper if you use the results or codes of our work.
 @article{sadeghi2022c3,
   title={C3: Cross-instance guided Contrastive Clustering},
   author={Sadeghi, Mohammadreza and Hojjati, Hadi and Armanfard, Narges},
-  journal={arXiv preprint arXiv:2211.07136},
-  year={2022}
+  journal={British Machine Vision Conference 2023},
+  year={2023}
 }
 ```
 
